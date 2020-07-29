@@ -23,3 +23,16 @@ I have used Lilu and Whatevergreen kext for Intel HD graphics 4000.
 For WiFi, I have used ATH9KFixup.kext with boot args -ath9565 Link: https://github.com/athlonreg/ATH9KFixup
 
 The touchpad works, but not showing in the system preference->Trackpad.
+
+## Credits
+ - [Apple](https://www.apple.com) for macOS.
+ - [Acidanthera](https://github.com/acidanthera) for most of the kexts.
+ - [goodwin](https://github.com/goodwin) for ALCPlugFix.
+ - [RehabMan](https://github.com/RehabMan) for some patches.
+ - [Steve Zheng](https://github.com/stevezhengshiqi) for some patches.
+ - [Sniki](https://github.com/Sniki) for some patches.
+ - [daliansky](https://github.com/daliansky) for some patches.
+ - [Moh_Ameen](https://github.com/ameenjuz) for some patches.
+ - [al3xtjames](https://github.com/al3xtjames) for clover-theme-oss theme.
+ - [ImmersiveX](https://github.com/ImmersiveX) for clover-theme-minimal-dark theme.
+ - And anyone else that helped to develop and improve hackintoshing.
